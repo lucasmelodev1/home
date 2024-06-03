@@ -1,11 +1,15 @@
 /**
 
 !.gitignore
+!.gitconfig
 !.zshrc
 !.zshenv
 !starship.toml
 !/Notes/
 !/Notes/**
+!/Projects/
+!/Projects/arch-setup/
+!/Projects/arch-setup/**
 !/.config/
 !/.config/nvim/
 !/.config/nvim/**
@@ -14,5 +18,3 @@
 !/.config/zellij/
 !/.config/zellij/**
 !/.config/dconf/user
-!/.local/share/gnome-shell/extensions/
-!/.local/share/gnome-shell/extensions/**

@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	email = lucasmelodev@proton.me
+	name = Lucas Gabriel
+[core]
+	editor = nvim
