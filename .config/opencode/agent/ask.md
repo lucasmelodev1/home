@@ -1,7 +1,6 @@
 ---
 description: Answer questions
 mode: primary
-model: opencode-go/deepseek-v4.1-flash
 color: "#ffffff"
 permission:
   edit: deny

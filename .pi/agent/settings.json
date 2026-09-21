@@ -1,0 +1,16 @@
+{
+  "lastChangelogVersion": "0.86.1",
+  "theme": "dark",
+  "defaultProvider": "opencode-go",
+  "defaultModel": "deepseek-v4.1-flash",
+  "modelThinkingLevels": {
+    "opencode-go/deepseek-v4.1-flash": "low"
+  },
+  "tuiMode": "fullscreen",
+  "packages": [
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:@juicesharp/rpiv-todo",
+    "npm:@dietrichgebert/ponytail",
+    "npm:pi-mcp-adapter"
+  ]
+}

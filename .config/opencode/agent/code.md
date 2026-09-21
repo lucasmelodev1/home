@@ -1,7 +1,6 @@
 ---
 description: Build functionality or fix bugs
 mode: primary
-model: opencode-go/deepseek-v4.1-flash
 permission:
   edit: allow
   question: allow

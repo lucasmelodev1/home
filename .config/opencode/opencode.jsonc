@@ -7,5 +7,12 @@
   "agent": {
     "build": { "disable": true },
     "plan": { "disable": true }
+  },
+  "mcp": {
+    "vercel": {
+      "type": "remote",
+      "url": "https://mcp.vercel.com",
+      "enabled": true
+    }
   }
 }
