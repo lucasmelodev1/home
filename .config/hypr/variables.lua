@@ -64,6 +64,7 @@ return {
 	-- Modifier only, the actual binds will be mod + 0-9. These should be strings and not arrays.
 	kbGoToWs = "SUPER",
 	kbGoToWsGroup = "CTRL + SUPER",
+	kbSwitchLayout = "SUPER + Space",
 	kbMoveWinToWs = "SUPER + ALT",
 	kbMoveWinToWsGroup = "CTRL + SUPER + ALT",
 
